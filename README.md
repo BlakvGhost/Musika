@@ -1,6 +1,8 @@
 # Musika
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Une application web de Streaming de musique comme spotify développé en Angular.
+
+`Projet en cours de développement, rejoint moi en tant que collaborateur.`
 
 ## Development server
 
